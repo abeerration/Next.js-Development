@@ -4,8 +4,8 @@
 </div>
 
 <div align="center">
-  <code><img width="190" src="nextjs.png"/></code>
-  <code><img width="190" src="react.png"/></code>
+  <code><img width="200" src="nextjs.png"/></code>
+  <code><img width="200" src="react.png"/></code>
   <br>
   <img height="100" src="js.svg">&nbsp;&nbsp;
   <img height="100" src="nodejs.svg">&nbsp;&nbsp;
