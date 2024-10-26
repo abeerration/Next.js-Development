@@ -24,7 +24,7 @@ This tutorial is about learning Next.js web app development (with JavaScript, No
 | # | Cover | Title |
 | ----------- | ----------- | ----------- |
 | **1.** | ![](cover-1.jpg) | <h2>The Complete Developer</h2><h4>Master the Full Stack with TypeScript, React, Next.js, MongoDB, and Docker</h4><h4>No Starch Press</h4><p>2024</p> |
-| **2.** | ![](cover-2.jpg) | <h2>Modern Web Applications with Next.JS</h2><h4>Orange Education Pvt Ltd, AVA™</h4><p>2023</p> |
+| **2.** | ![](cover-2.jpg) | <h2>Modern Web Applications with Next.JS</h2><h4>Learn Advanced Techniques to Build and Deploy Modern, Scalable and Production Ready React Applications with Next.JS</h4><h4>Orange Education Pvt Ltd, AVA™</h4><p>2023</p> |
 
 ---
 
