@@ -7,10 +7,10 @@
   <code><img width="200" src="nextjs.png"/></code>
   <code><img width="200" src="react.png"/></code>
   <br>
-  <img height="100" src="js.svg">&nbsp;&nbsp;
-  <img height="100" src="nodejs.svg">&nbsp;&nbsp;
-  <img height="100" src="expressjs.svg">&nbsp;&nbsp;
-  <img height="100" src="mongodb.svg">&nbsp;&nbsp;
+  <img height="75" src="js.svg">&nbsp;&nbsp;
+  <img height="75" src="nodejs.svg">&nbsp;&nbsp;
+  <img height="75" src="expressjs.svg">&nbsp;&nbsp;
+  <img height="75" src="mongodb.svg">&nbsp;&nbsp;
 </div>
 ---
 
