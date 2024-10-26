@@ -32,5 +32,5 @@ This tutorial is about learning Next.js web app development (with JavaScript, No
 
 | # | Book | Code |
 | ----------- | ----------- | ----------- |
-| **1.** | The Complete Developer | [code]() |
-| **2.** | Modern Web Applications with Next.JS | [code]() |
+| **1.** | The Complete Developer | [code](https://github.com/abeerration/Next.js-Development/tree/main/1.%20The%20Complete%20Developer) |
+| **2.** | Modern Web Applications with Next.JS | [code](https://github.com/abeerration/Next.js-Development/tree/main/2.%20Modern%20Web%20Applications%20with%20Next.JS) |
