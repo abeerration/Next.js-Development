@@ -1,15 +1,15 @@
 <div align="center">
   <b>A tutorial in my <a href="https://github.com/abeerration/CS-Self-Education">CS Self Education</a> series</b>
   <h1>Next.js Development</h1>
-  <img height="100" src="js.svg">&nbsp;&nbsp;
-  <img height="100" src="nodejs.svg">&nbsp;&nbsp;
-  <img height="100" src="expressjs.svg">&nbsp;&nbsp;
-  <img height="100" src="mongodb.svg">&nbsp;&nbsp;
 </div>
 
 <div align="center">
   <code><img width="400" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code>
   <code><img width="400" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
+  <img height="100" src="js.svg">&nbsp;&nbsp;
+  <img height="100" src="nodejs.svg">&nbsp;&nbsp;
+  <img height="100" src="expressjs.svg">&nbsp;&nbsp;
+  <img height="100" src="mongodb.svg">&nbsp;&nbsp;
 </div>
 ---
 
