@@ -20,7 +20,7 @@ None
 
 ## Description & Goals
 
-This tutorial is about learning Next.js web app development (with JavaScript, Node.js, Express.js, MongoDB, React & Next.js).
+This tutorial is about learning Next.js web app development with JavaScript, Node.js, Express.js, MongoDB, React and Next.js.
 
 ---
 
